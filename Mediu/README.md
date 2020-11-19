@@ -1,1 +1,1 @@
-# This folder contains all my code from leetcode which is having a difficulty leveln of medium
+# This folder contains all my code from leetcode which is having a difficulty level of medium
